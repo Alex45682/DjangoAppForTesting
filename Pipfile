@@ -5,8 +5,9 @@ name = "pypi"
 
 [packages]
 pytest = "*"
-djangorestframework = "*"
+djangorestframework = "==3.14.0"
 black = "*"
+django = "==4.2.6"
 
 [dev-packages]
 
