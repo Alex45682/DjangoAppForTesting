@@ -8,6 +8,8 @@ pytest = "*"
 djangorestframework = "==3.14.0"
 black = "*"
 django = "==4.2.6"
+pytest-django = "*"
+pytest-pythonpath = "*"
 
 [dev-packages]
 
